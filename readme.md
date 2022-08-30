@@ -8,4 +8,8 @@
 
 ## Ответ
 
+[image](https://github.com/davlyatov-ts/virt-4/blob/master/image.png)<br>
 
+______________________________________________
+
+# Задание №2
