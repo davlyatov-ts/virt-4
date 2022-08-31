@@ -8,7 +8,7 @@
 
 ## Ответ
 
-[image](https://github.com/davlyatov-ts/virt-4/blob/master/image.png)<br>
+[image](https://github.com/davlyatov-ts/virt-4/blob/master/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D1%8B.png)<br>
 
 ______________________________________________
 
@@ -24,3 +24,18 @@ ______________________________________________
 
 [virtual machine](https://github.com/davlyatov-ts/virt-4/blob/master/VirtuallMashine.png)<br>
 __________________
+
+# Задание №3
+
+Создать ваш первый готовый к боевой эксплуатации компонент мониторинга, состоящий из стека микросервисов.<br>
+
+Для получения зачета, вам необходимо предоставить:<br>
+
+- Скриншот работающего веб-интерфейса Grafana с текущими метриками, как на примере ниже<br>
+
+## Ответ
+
+[Grafana-1](https://github.com/davlyatov-ts/virt-4/blob/master/Grafana-1.png)<br>
+[Grafana-2](https://github.com/davlyatov-ts/virt-4/blob/master/Grafana-2.png)<br>
+[ctop](https://github.com/davlyatov-ts/virt-4/blob/master/ctop.png)<br>
+____________________
