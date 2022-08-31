@@ -22,5 +22,5 @@ ______________________________________________
 
 ## Ответ
 
-[Виртуальная машина](https://github.com/davlyatov-ts/virt-4/blob/master/VirtuallMashine.png<br>
+[virtual machine](https://github.com/davlyatov-ts/virt-4/blob/master/VirtuallMashine.png)<br>
 __________________
